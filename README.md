@@ -3,10 +3,6 @@
 
 
 
-This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023
-
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ZbX4Ok9YX94)
-
 Key Features:
 
 - Real-time database  🔗 
