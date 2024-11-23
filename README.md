@@ -30,7 +30,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/notion-clone-tutorial.git
+git clone https://github.com/incruder1/Notes-Application.git
 ```
 
 ### Install packages
